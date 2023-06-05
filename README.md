@@ -6,9 +6,9 @@
 <ul>
   <li> Fatma Aktaş: Scrum Master </li>
   <li> Berkant Yılmaz: Product Owner </li>
-  <li> Burak Hoşgör </li>
-  <li> Berkay Fehmi Tekin </li>
-  <li> Eslem Eryılmaz </li>
+  <li> Burak Hoşgör: Developer </li>
+  <li> Berkay Fehmi Tekin: Developer </li>
+  <li> Eslem Eryılmaz: Developer </li>
 </ul>
 
 <h1>Ürün İsmi</h1>
