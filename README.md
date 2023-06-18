@@ -46,9 +46,11 @@
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/c4d93fff-e58e-4f36-9bad-2481f3642109)
 
+- **Ürün Durumu**: Ekran görüntüleri:
+![sprint1gorsel](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/94434aa4-32df-411f-a265-4eaf56c84d28)
 
 
-
+![sprint2gorsel](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/ea11d901-cd98-41a2-a733-8d119f043aa1)
 
 
 
