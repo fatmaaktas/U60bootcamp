@@ -48,3 +48,15 @@
 
 
 
+
+
+
+
+- **Sprint Review**: 
+Alınan kararlar: Oyuncu için bir terrain oluşturulup sanal bir 3D sahne oluşturulmuştur ve eksiklikler değerlendirilmiştir. <br>
+Sprint Review katılımcıları: Bütün ekip üyeleridir.
+
+- **Sprint Retrospective:**
+  - Roller ile ilgili karar verilmiştir, scrum master ve product owner belirlenmiştir.
+  - Oyun için yeni tasklar ile ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine karar verilmiştir.
