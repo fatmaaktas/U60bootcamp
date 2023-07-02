@@ -85,8 +85,9 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
 
 - **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
 
-- **Sprint board update**: Sprint board screenshotları: 
-![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/a4e473ff-05ee-4b06-951f-b878f2b53655)
+- **Sprint board update**: Sprint board screenshotları:
+  ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/89134f26-7637-4292-aa44-0083be2be84c)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/e2abef8e-75b3-4094-b1e0-1122ae7b68f5)
