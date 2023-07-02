@@ -62,3 +62,47 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
   - Roller ile ilgili karar verilmiştir, scrum master ve product owner belirlenmiştir.
   - Oyun için yeni tasklar ile ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine karar verilmiştir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 220 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 220 puan ile yapılması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/91fabb58-a53e-43a3-a0e1-6a92f616d415)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/e2abef8e-75b3-4094-b1e0-1122ae7b68f5)
+
+
+![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/7bc0032c-c279-418b-9fa6-e8a4019a2195)
+
+![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/4026f446-fe9f-49a5-80ba-966e38e7219d)
+
+
+
+- **Sprint Review**: 
+Alınan kararlar: Oyuncu için bir harita oluşturuldu ve açık dünyada gezebileceği alanlarda göreceği yerler ve düşmanlar oluşturulmuştur ve eksiklikler değerlendirilmiştir. <br>
+Sprint Review katılımcıları: Bütün ekip üyeleridir.
+
+- **Sprint Retrospective:**
+  - Oyun için ses dosyası oluşturma kararı alındı.
+  - Düşmanlar ve skilleri hakkında konuşuldu ve assetlerine karar verildi.
+  - Takım üyelerinin projeye biraz daha yoğunlaşıp oyunu bitirmeye odaklanması kararı alındı.
