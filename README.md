@@ -93,8 +93,6 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
 - **Ürün Durumu**: Ekran görüntüleri:
 ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/e2abef8e-75b3-4094-b1e0-1122ae7b68f5)
 
-![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/7bc0032c-c279-418b-9fa6-e8a4019a2195)
-
 ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/4026f446-fe9f-49a5-80ba-966e38e7219d)
 
 
