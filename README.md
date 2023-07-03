@@ -97,6 +97,8 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
 
 
 
+![WhatsApp Image 2023-07-03 at 19 03 44](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/5e9622a5-d18b-46ee-af34-ca6417d55bbf)
+
 
 
 
