@@ -97,11 +97,46 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
 
 
 
-- **Sprint Review**: 
-Alınan kararlar: Oyuncu için bir harita oluşturuldu ve açık dünyada gezebileceği alanlarda göreceği yerler ve düşmanlar oluşturulmuştur ve eksiklikler değerlendirilmiştir. <br>
-Sprint Review katılımcıları: Bütün ekip üyeleridir.
 
-- **Sprint Retrospective:**
-  - Oyun için ses dosyası oluşturma kararı alındı.
-  - Düşmanlar ve skilleri hakkında konuşuldu ve assetlerine karar verildi.
-  - Takım üyelerinin projeye biraz daha yoğunlaşıp oyunu bitirmeye odaklanması kararı alındı.
+
+
+
+- **Sprint Review**: PortalVerse Oyunu - Sprint 2
+
+Sprint 2 ile birlikte Portalverse, oyun dünyasını daha da genişleten önemli geliştirmeler ve yeni içerikler sunuyor. Adanın yerli halkı için özel bir köy, düşmanlar için bir bataklık ve hikayenin odak noktası olan terkedilmiş bir insan yerleşimi gibi yeni bölgeler oyuna eklenmiştir. Bu yeni alanlar, oyunun yaşayan dünyasını zenginleştirerek oyunculara keşfetme ve macera dolu bir deneyim sunuyor.
+<br>
+Görsel açıdan, Portalverse sprint 2 ile büyük geliştirmeler getiriyor. Çevre tasarımları daha detaylı ve etkileyici hale getirilmiş, bu da oyuncuların kendilerini oyun dünyasının içinde hissetmelerini sağlıyor. Karakter modellemeleri ve animasyonlar da estetik bir görünüm sunarak oyunun görsel kalitesini artırıyor. Ayrıca, sesler ve müzikler de oyun atmosferine uyumlu bir şekilde ayarlanmış, oyuncuların duygusal bağ kurmalarını ve daha derin bir deneyim yaşamalarını sağlıyor.
+<br>
+Sprint 2'nin sonucunda, Portalverse oyunu önemli bir aşama kaydetmiş durumda. Yeni eklenen bölgeler ve düşman tipleri, oyunun zengin ve çeşitli bir dünyasını ortaya çıkarıyor. Görsel geliştirmeler ise oyunun görsel açıdan etkileyici bir deneyim sunmasını sağlıyor. Sesler ve müzikler ise oyunun atmosferini güçlendirerek oyuncuların daha fazla empati kurmalarını sağlıyor.
+<br>
+Portalverse, sprint 2 ile oyunun hedeflerini başarıyla gerçekleştiriyor ve oyunculara daha derin, heyecan verici bir deneyim sunuyor. Bu yeni geliştirmelerle birlikte oyunun hayranları, Portalverse'un büyüleyici dünyasında daha fazla saat geçirmek için sabırsızlanacaklar.
+
+
+
+
+- **Sprint Retrospective:** Portalverse Oyunu - Sprint 2
+
+Ne İyi Gitti: <br>
+- Yeni bölgelerin eklenmesiyle oyun dünyası daha da genişletildi ve oyunculara yeni keşifler ve maceralar sunuldu. <br>
+- Görsel geliştirmelerle oyunun çevre tasarımları ve karakter modelleri daha etkileyici hale getirildi, bu da oyuncuların daha derin bir deneyim yaşamasını sağladı.<br>
+- Sesler ve müzikler, oyun atmosferine uyumlu bir şekilde ayarlanarak oyuncuların duygusal bağ kurmalarını güçlendirdi.<br>
+
+<br>
+İyileştirilebilecek Noktalar: <br>
+- Ekip içi iletişimi daha da geliştirmek için daha sık ve düzenli toplantılar yapılabilir.<br>
+- Oyunun performansı ve kararlılığına daha fazla odaklanarak oyuncuların sorunsuz bir deneyim yaşaması sağlanabilir.<br>
+- Yeni eklenen bölgeler ve düşman tipleri için daha fazla oyun dengelemesi ve test yapılabilir.<br>
+<br>
+
+Öğrenilen Dersler: <br>
+- İyi bir planlama yapmanın önemi: Sprint boyunca iyi bir planlama yapmak, ekibin hedeflere daha etkili bir şekilde ilerlemesini sağlar. <br>
+- Geri bildirimlerin değeri: Oyunculardan gelen geri bildirimler, oyunun geliştirilmesi ve iyileştirilmesi için çok değerli bir kaynaktır. <br>
+- Ekip içi işbirliğinin gücü: Her bir üyenin yeteneklerini bir araya getirerek çalışmak, projenin başarısı için önemlidir. <br>
+<br>
+
+Alınacak Önlemler: <br>
+- Sprint süresince düzenli olarak geri bildirim oturumları yaparak ekibin performansını ve ilerlemesini izlemek. <br>
+- Performans ve kararlılık sorunlarına daha fazla odaklanmak ve mümkün olan en iyi oyun deneyimini sunmak için çözümler bulmak. <br>
+
+<br>
+Sprint 2'nin Retrospektifi sonucunda, Portalverse ekibi önemli ilerlemeler kaydetti ve oyunculara daha derin, heyecan verici bir deneyim sunuldu. Ekip, iyileştirilebilecek noktalar üzerinde çalışarak daha iyi bir sonraki sprint planlaması ve geliştirme süreci için önlemler alacak. Geri bildirimleri değerlendirerek ve ekip içi işbirliğini güçlendirerek, Portalverse oyununu daha da geliştirmek ve oyunculara unutulmaz bir deneyim sunmak için ilerleyecekler.
