@@ -80,13 +80,14 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 220 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 220 puan ile yapılması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Tamamlanması gereken toplam puan 300 sprint 2'de tamamlanan puan 160'dır.Grup biraz sürecin gerisindedir ve sprint 3 de biraz daha hızlı olması gerekir.
 
 
 - **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
 
 - **Sprint board update**: Sprint board screenshotları:
-  ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/89134f26-7637-4292-aa44-0083be2be84c)
+ ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/01e71824-326b-43c5-b371-2695d155a761)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
