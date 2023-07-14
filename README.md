@@ -81,7 +81,7 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
 # Sprint 2
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 220 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
 
 - **Puan tamamlama mantığı**: Tamamlanması gereken toplam puan 300 sprint 2'de tamamlanan puan 160'dır.Grup biraz sürecin gerisindedir ve sprint 3 de biraz daha hızlı olması gerekir.
@@ -146,3 +146,15 @@ Alınacak Önlemler: <br>
 
 <br>
 Sprint 2'nin Retrospektifi sonucunda, Portalverse ekibi önemli ilerlemeler kaydetti ve oyunculara daha derin, heyecan verici bir deneyim sunuldu. Ekip, iyileştirilebilecek noktalar üzerinde çalışarak daha iyi bir sonraki sprint planlaması ve geliştirme süreci için önlemler alacak. Geri bildirimleri değerlendirerek ve ekip içi işbirliğini güçlendirerek, Portalverse oyununu daha da geliştirmek ve oyunculara unutulmaz bir deneyim sunmak için ilerleyecekler.
+
+
+
+
+
+# Sprint 3
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+
+
+- **Puan tamamlama mantığı**: Tamamlanması gereken toplam puan 300 sprint 3'de tamamlanan puan 160'dır.Grup sprint sürecini başarıyla tamamlamış bulunmaktadır. Toplam puan olan 300'e ulaşıldı.
