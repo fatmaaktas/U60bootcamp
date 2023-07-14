@@ -87,7 +87,7 @@ Sprint Review katılımcıları: Bütün ekip üyeleridir.
 - **Puan tamamlama mantığı**: Tamamlanması gereken toplam puan 300 sprint 2'de tamamlanan puan 160'dır.Grup biraz sürecin gerisindedir ve sprint 3 de biraz daha hızlı olması gerekir.
 
 
-- **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
+- **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
 
 - **Sprint board update**: Sprint board screenshotları:
  ![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/01e71824-326b-43c5-b371-2695d155a761)
@@ -160,7 +160,7 @@ Sprint 2'nin Retrospektifi sonucunda, Portalverse ekibi önemli ilerlemeler kayd
 - **Puan tamamlama mantığı**: Tamamlanması gereken toplam puan 300 sprint 3'de tamamlanan puan 160'dır.Grup sprint sürecini başarıyla tamamlamış bulunmaktadır. Toplam puan olan 300'e ulaşıldı.
 
 
-- **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
+- **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
