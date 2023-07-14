@@ -158,3 +158,26 @@ Sprint 2'nin Retrospektifi sonucunda, Portalverse ekibi önemli ilerlemeler kayd
 
 
 - **Puan tamamlama mantığı**: Tamamlanması gereken toplam puan 300 sprint 3'de tamamlanan puan 160'dır.Grup sprint sürecini başarıyla tamamlamış bulunmaktadır. Toplam puan olan 300'e ulaşıldı.
+
+
+- **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+
+
+
+
+- **Sprint Review**: 
+Alınan kararlar: Eksik kalınan noktaların bu sprint içerisinde tamamlanmasına karar verildi. Oyunumuzun ses dosyaları ve diğer eklenmesi gereken son kısımların da eklenerek projenin eksiksiz olarak sunulmasına karar verildi. <br>
+Sprint Review katılımcıları: Bütün ekip üyeleridir.
+
+- **Sprint Retrospective:**
+  - Oyun içinde skiller kararlaştırılıp eklendi.
+  - Oyun optimizasyonu yapıldı.
+  - Takım üyeleri birbirleri ile iyi bir iletişim süreci geçirerek süreci sorunsuz bir şekilde tamamlayıp ürünü kullanılabilir bir oyun haline getirdi ve süreç başarıyla sonlandırıldı.
