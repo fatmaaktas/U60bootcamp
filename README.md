@@ -163,6 +163,7 @@ Sprint 2'nin Retrospektifi sonucunda, Portalverse ekibi önemli ilerlemeler kayd
 - **Daily Scrum**: Daily Scrum toplantıları Whatsapp üzerinden sürekli olarak yapıldı. Aynı zamanda Discord üzerinden toplantılar gerçekleştirildi. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/fatmaaktas/U60bootcamp/tree/main/Sprint1_Documents)
 
 - **Sprint board update**: Sprint board screenshotları: 
+![image](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/2271dfe9-bddb-4c7f-940a-79b7f1ab2c8f)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
