@@ -169,6 +169,7 @@ Sprint 2'nin Retrospektifi sonucunda, Portalverse ekibi önemli ilerlemeler kayd
 - **Ürün Durumu**: Ekran görüntüleri:
 
 
+![WhatsApp Image 2023-07-09 at 10 09 19](https://github.com/fatmaaktas/U60bootcamp/assets/49655751/29a1576d-5e56-4042-8de7-24dd70b529a3)
 
 
 
