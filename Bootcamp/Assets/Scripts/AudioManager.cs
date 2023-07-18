@@ -7,6 +7,8 @@ public class AudioManager : MonoBehaviour
     public AudioSource backgroundMusic;
     public AudioSource soundEffect;
 
+    public AudioClip[] backgroundMusicClips;
+
     private void Awake()
     {
         if (instance == null)
@@ -18,9 +20,19 @@ public class AudioManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    
 
-    public void PlayBackgroundMusic(AudioClip clip, float volume)
+    void Start()
     {
+        AudioManager.instance.PlayBackgroundMusic(backgroundMusicClips, 0.5f);
+    }
+
+
+    public void PlayBackgroundMusic(AudioClip[] clips, float volume)
+    {
+        int randomIndex = Random.Range(0, clips.Length);
+        AudioClip clip = clips[randomIndex];
+
         backgroundMusic.clip = clip;
         backgroundMusic.volume = volume;
         backgroundMusic.Play();
